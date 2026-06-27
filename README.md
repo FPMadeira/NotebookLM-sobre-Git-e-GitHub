@@ -20,3 +20,14 @@ https://notebooklm.google.com/notebook/46812b05-ce38-4c60-ab7a-6011a381eec0/arti
 * Glossário com os principais tópicos aprendidos
 
 * Prompts para apoiar futuras revisões sobre o tema
+O que é o Git Flow e como ele funciona?
+Como resolver um conflito de merge passo a passo?
+Qual a diferença entre git pull e git fetch?
+Como funciona o comando git flow para organizar equipes?
+Quais são as vantagens de configurar uma chave SSH?
+O que são branches e para que servem?
+Como configurar uma chave SSH no GitHub?
+O que é e como funciona o Git Flow?
+Qual a diferença fundamental entre Git e GitHub?
+Como funciona o fluxo de trabalho do Git Flow?
+Como posso fazer minha primeira contribuição Open Source?
