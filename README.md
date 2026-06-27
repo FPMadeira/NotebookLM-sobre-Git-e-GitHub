@@ -14,6 +14,9 @@ ENGENHARIA DE PROMPTS E 'CICATRIZES': Pedi para o próprio NotebookLM buscar fon
 "atue como tutor para ensinar do zero a usar e virar um mestre no uso de git e github"
 
 MINIGUIA DE ESTUDO FINAL:
-* Resumo estruturado
+* Resumo estruturado:
+https://notebooklm.google.com/notebook/46812b05-ce38-4c60-ab7a-6011a381eec0/artifact/3db6db3f-6399-43b1-9c81-e42655806a58?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_
+
 * Glossário com os principais tópicos aprendidos
+
 * Prompts para apoiar futuras revisões sobre o tema
