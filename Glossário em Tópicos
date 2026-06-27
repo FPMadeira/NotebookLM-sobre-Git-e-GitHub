@@ -1,0 +1,52 @@
+Aqui está um glossário detalhado sobre a criação e manutenção de repositórios Git e GitHub, organizado em ordem alfabética:
+Área de Preparo (Staging Area): É uma seção ou arquivo (também chamado de "índice") que armazena informações sobre o que será incluído na sua próxima confirmação de alterações
+. Quando você usa o comando git add, você está movendo arquivos para este estado
+.
+Branch (Ramificação): Uma linha de desenvolvimento independente. Criar uma branch permite que você trabalhe em novas funcionalidades ou correções de forma segura, sem afetar o código principal (main) até que as alterações estejam prontas para serem integradas
+.
+Clone: O processo de baixar um projeto existente e todo o seu histórico de versões de um servidor (como o GitHub) para o seu computador local
+.
+Commit (Confirmação): Funciona como uma "foto" ou instantâneo (snapshot) do estado dos seus arquivos em um determinado momento
+. Cada commit é gravado permanentemente no histórico de versões
+.
+Conflito de Merge: Ocorre quando o Git não consegue mesclar automaticamente as alterações, geralmente porque duas pessoas editaram a mesma linha de um arquivo ou uma pessoa editou um arquivo enquanto outra o excluiu
+.
+Develop (Branch): No fluxo de trabalho Git Flow, é a branch permanente usada para integrar novas funcionalidades que ainda não foram publicadas na versão oficial
+.
+Feature (Branch): Branches temporárias criadas especificamente para o desenvolvimento de novas funcionalidades, sendo geralmente excluídas após serem mescladas na branch Develop
+.
+Fork (Bifurcação): O ato de criar uma cópia de um repositório de outra pessoa para a sua própria conta no GitHub. Isso permite que você faça modificações livremente sem alterar o projeto original
+.
+Git: Um sistema de controle de versão distribuído de código aberto que rastreia alterações em arquivos e facilita a colaboração
+.
+GitHub: Uma plataforma baseada em nuvem que hospeda repositórios Git, oferecendo ferramentas extras para gerenciamento de projetos, colaboração e rede social para desenvolvedores
+.
+Git Flow: Um modelo de gerenciamento de branches (workflow) que define funções específicas para diferentes tipos de ramificações, como develop, master, feature, release e hotfix
+.
+Hotfix: Uma branch temporária criada a partir da Main para realizar correções urgentes e imediatas em sistemas que já estão em produção
+.
+Init: Comando (git init) utilizado para inicializar um novo repositório Git local dentro de uma pasta específica no seu computador
+.
+Issue: Uma ferramenta no GitHub usada para relatar bugs, sugerir melhorias ou documentar tarefas pendentes em um projeto
+.
+Main (ou Master): A branch principal de um repositório, onde reside o código que já foi testado e está pronto para o uso oficial ou produção
+.
+Merge (Fusão): A ação de combinar o histórico e as alterações de uma branch em outra
+.
+Pull: Comando usado para baixar as atualizações mais recentes de um repositório remoto e incorporá-las automaticamente ao seu trabalho local
+.
+Pull Request (PR): Uma solicitação enviada ao dono do repositório para que ele revise e aceite as alterações que você fez (geralmente em um fork ou em uma branch separada)
+.
+Push (Empurrar): O ato de enviar seus commits locais para o repositório remoto no GitHub para que outras pessoas possam vê-los e utilizá-los
+.
+README: Um arquivo (geralmente README.md) usado para descrever o projeto, fornecer instruções de instalação e outras informações essenciais para quem acessar o repositório
+.
+Release (Branch): Branch usada para preparar um novo lançamento oficial do software, servindo como ambiente de homologação e testes finais
+.
+Remoto (Remote): Refere-se à versão do repositório que está hospedada em um servidor externo (como o GitHub), servindo como ponto central de sincronização para a equipe
+.
+Repositório (Repository): É o local (pasta) onde os arquivos de um projeto e todo o seu histórico de controle de versão gerenciado pelo Git são armazenados
+.
+SSH: Um método de conexão segura que utiliza chaves criptográficas para autenticar seu computador com o GitHub, eliminando a necessidade de digitar senhas ou tokens a cada operação
+.
+Snapshot (Instantâneo): A forma como o Git armazena dados. Em vez de salvar apenas as diferenças entre arquivos, ele tira uma "foto" de como todos os arquivos do projeto estão em um dado momento
